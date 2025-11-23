@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @livininlimbo
 - 👀 I’m interested in anything and everything
-- 🌱 I’m currently learning python, javascript, and linux
+- 🌱 I’m currently learning python, javascript, r, and java
 - 💞️ I’m looking to collaborate on nada.
 - 📫 How to reach me... you don't.
 - ⚡ Fun fact: ...
